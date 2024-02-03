@@ -7,7 +7,7 @@ import org.testng.asserts.SoftAssert;
 
 import genericUtilities.BaseClass;
 import genericUtilities.Iconstantpath;
-
+//this test verifies if user is able to create category
 public class AddCategoryTest extends BaseClass {
 	@Test
 	public void addCategoryTest() throws InterruptedException {
